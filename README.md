@@ -23,7 +23,6 @@ The Weather App is a web-based application that allows users to quickly get the 
 
 - HTML5, CSS3
 - JavaScript (ES6+)
-- [React](https://reactjs.org/)
 - [OpenWeather API](https://openweathermap.org/api)
 
 
